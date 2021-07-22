@@ -1,2 +1,2 @@
 # fswd
-internship django project
+django project on web
