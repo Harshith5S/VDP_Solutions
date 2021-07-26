@@ -1,5 +1,5 @@
 # full_stack_web_development
-website for VDP Solutions Pvt Ltd.
+website for VDP Solutions Pvt Ltd. company
 using django
 
 download this p3 file and extract
