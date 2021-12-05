@@ -1,4 +1,4 @@
-# VDP-Solutons-Pvt-Ltd.
+# VDP_Solutons
 full stack web development using django
 
 download this p3 file and extract
