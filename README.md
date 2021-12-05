@@ -1,6 +1,5 @@
-# full_stack_web_development
-website for VDP Solutions Pvt Ltd. company
-using django
+# VDP-Solutons-Pvt-Ltd.
+full stack web development using django
 
 download this p3 file and extract
 open xampp or wramp server and start apache and mysql
